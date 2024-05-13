@@ -5,11 +5,9 @@
 public class Main {
   public static void main(String[] args) {
     System.out.println("|---------------|");
-    System.out.println("|-- Fifit cent--|");
+    System.out.println("|   Fifit cent  |");
     System.out.println("|_______________|");
     
-    System.out.println("");
-
     System.out.println("");
 
     System.out.println("Álbum ");
@@ -21,7 +19,8 @@ public class Main {
     System.out.println("");
 
      System.out.println("*Musicas*");
-     System.out.println("What Up Gangsta 2:59, atiently Waiting 4:48, Many Men (Wish Death");
+    System.out.println("");
+     System.out.println("What Up Gangsta 2:59, Patiently Waiting 4:48, Many Men 4:16, In da Club 3:13, High All the Time 4:29, Heat 4:14, If I Can't 3:16, Blood Hound 4:00, Back Down 4:03, P.I.M.P. 	4:09, Like My Style 3:13, Poor Lil Rich 3:19, 21 Questions 3:44, Don't Push Me 4:08, Gotta Make It to Heaven 4:00. Total length:	53:44. Total length:53:44 ");
   }
 
   // @Test
